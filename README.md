@@ -24,8 +24,6 @@ A trained model from Chinese Wikipedia Dump and Baidu Baike can be downloaded fr
 
 * data/examples/rasa/demo-rasa_zh.json
 
-Should add as much examples as possible.
-
 ### Usage:
 
 1. Clone this project, and run
